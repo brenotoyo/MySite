@@ -1,2 +1,3 @@
 # MySite
+
 Django Personal Blog
